@@ -1,1 +1,1 @@
-# Week 0 — Billing and Architecture
+# Week 0 — Billing and Architecture<img width="1065" alt="Screenshot 2023-02-24 at 4 25 54 PM" src="https://user-images.githubusercontent.com/95901335/221325022-dd55697a-c8ce-4a77-9d0a-da3686682fc7.png">
